@@ -1,0 +1,8 @@
+jupyter
+pandas
+numpy
+matplotlib
+tqdm
+biopython
+pathlib
+requests
